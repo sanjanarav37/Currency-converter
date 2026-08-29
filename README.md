@@ -4,7 +4,7 @@ A simple and responsive currency converter built using HTML, CSS, and JavaScript
 
 ## 🌐 Live Demo
 
-[**View Live Demo →**](YOUR-LIVE-DEMO-LINK)
+[**View Live Demo →**](https://currency-converter-here.netlify.app/)
 
 ## ✨ Features
 
